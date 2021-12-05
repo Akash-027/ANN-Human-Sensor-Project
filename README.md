@@ -1,1 +1,3 @@
-# Project done for Soft-Computing Technique course, Sensor based Human Activity Recognition using ANN
+# Project 
+Course: Soft-Computing Technique course
+Title: Sensor based Human Activity Recognition using ANN
